@@ -8,5 +8,7 @@ public class HomePage {
 
     // we are creating separate changes
 
+    // logo
+
 
 }
